@@ -1,168 +1,33 @@
 #EXTM3U
 #EXTINF:-1 ,  Vyas Higher Education Channel
 https://playhls.media.nic.in/live/vyas/index.m3u8
-#EXTINF:-1 ,  Gyandarshan
-https://cdn-6.pishow.tv/live/14/master.m3u8
 
 #EXTINF:-1 ,  Zee One English
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
-#EXTINF:-1 ,  Raj Musix Telugu
-https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 ,  DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
 #EXTINF:-1 ,  Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 ,  DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 ,  CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 ,  CVR English
-https://cdn-2.pishow.tv/live/425/master.m3u8
+
 #EXTINF:-1 ,  TV 9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 ,  6 TV Telugu
-https://cdn-1.pishow.tv/live/232/master.m3u8
-#EXTINF:-1 ,  10 TV
-https://cdn-1.pishow.tv/live/391/master.m3u8
-#EXTINF:-1 ,  99 TV
-https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 ,  HMTV
-https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 ,  Comedy Tadka
+#EXTINF:-1 ,  Comedy Tadka Hindi
 https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
-#EXTINF:-1 ,  DD Kashir
-https://cdn-6.pishow.tv/live/16/master.m3u8
+
 #EXTINF:-1 ,  DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 ,  Hi Dost!
-https://cdn-1.pishow.tv/live/224/master.m3u8
 
-#EXTINF:-1 ,  Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 ,  Network 10 News
 https://network10.livebox.co.in/network10hls/live.m3u8
+
 #EXTINF:-1 ,  India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 ,  Tehzeeb TV
-https://cdn-4.pishow.tv/live/239/master.m3u8
+
 #EXTINF:-1 ,  Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 ,Pogo Telugu
-http://103.180.212.191:3500/live/1883.m3u8
-#EXTINF:-1 ,Animal Planet HD Telugu
-http://103.180.212.191:3500/live/3182.m3u8
-#EXTINF:-1 ,Nick Telugu
-http://103.180.212.191:3500/live/1342.m3u8
-#EXTINF:-1 ,Cartoon Network Telugu
-http://103.180.212.191:3500/live/166.m3u8
-#EXTINF:-1 ,Cartoon Network HD Telugu
-http://103.180.212.191:3500/live/1080.m3u8
-#EXTINF:-1 ,ZEE Telugu News
-http://103.180.212.191:3500/live/3031.m3u8
-#EXTINF:-1 ,Raj News Telugu
-http://103.180.212.191:3500/live/664.m3u8
-#EXTINF:-1 ,Animal Planet Telugu
-http://103.180.212.191:3500/live/3183.m3u8
-#EXTINF:-1 ,Sai TV Telugu
-http://103.180.212.191:3500/live/3087.m3u8
-#EXTINF:-1 ,SONY Yay Telugu
-http://103.180.212.191:3500/live/874.m3u8
-#EXTINF:-1 ,History TV18 HD Telugu
-http://103.180.212.191:3500/live/577.m3u8
-#EXTINF:-1 ,SONY LIV Sports 4 Telugu
-http://103.180.212.191:3500/live/3398.m3u8
-#EXTINF:-1 ,Nick Telugu
-http://103.180.212.191:3500/live/543.m3u8
-#EXTINF:-1 ,Sonic Telugu
-http://103.180.212.191:3500/live/1242.m3u8
-#EXTINF:-1 ,Raj Music Telugu
-http://103.180.212.191:3500/live/737.m3u8
-#EXTINF:-1 ,Discovery Telugu
-http://103.180.212.191:3500/live/576.m3u8
-
-#EXTINF:-1 ,Star Sports 1 Telugu
-http://103.180.212.191:3500/live/2851.m3u8
-#EXTINF:-1 ,Star Sports 4 Telugu
-http://103.180.212.191:3500/live/2854.m3u8
-
-#EXTINF:-1 ,Discovery HD Telugu
-http://103.180.212.191:3500/live/3446.m3u8
-
-#EXTINF:-1 ,Discovery Kids Telugu
-http://103.180.212.191:3500/live/3447.m3u8
-
-#EXTINF:-1 ,TV9 Telugu News
-http://103.180.212.191:3500/live/618.m3u8
-
-#EXTINF:-1 ,SONY LIV Sports 4 Telugu
-http://103.180.212.191:3500/live/3398.m3u8
-
-#EXTINF:-1 ,SONY LIV Sports 2
-http://103.180.212.191:3500/live/3373.m3u8
-
-
-
-#EXTINF:-1 ,Gemini TV HD
-http://103.180.212.191:3500/live/897.m3u8
-
-#EXTINF:-1 ,Gemini Movies HD
-http://103.180.212.191:3500/live/899.m3u8
-
-#EXTINF:-1 ,Gemini Music HD
-http://103.180.212.191:3500/live/898.m3u8
-
-#EXTINF:-1 ,Gemini Life
-http://103.180.212.191:3500/live/684.m3u8
-
-#EXTINF:-1 ,Gemini Comedy
-http://103.180.212.191:3500/live/729.m3u8
-
-#EXTINF:-1 ,Discovery Science English
-http://103.180.212.191:3500/live/568.m3u8
-
-#EXTINF:-1 ,Investigation Discovery HD English
-http://103.180.212.191:3500/live/3435.m3u8
-#EXTINF:-1 ,Cartoon Network HD English
-http://103.180.212.191:3500/live/1079.m3u8
-#EXTINF:-1 ,CVR English
-http://103.180.212.191:3500/live/787.m3u8
-#EXTINF:-1 ,Discovery English
-http://103.180.212.191:3500/live/242.m3u8
-#EXTINF:-1 ,Jio Sports HD
-http://103.180.212.191:3500/live/889.m3u8
-#EXTINF:-1 ,Star Sports 4 HD
-http://103.180.212.191:3500/live/891.m3u8
-#EXTINF:-1 ,Star Sports 4 HD
-http://103.180.212.191:3500/live/892.m3u8
-#EXTINF:-1 ,Gemini HD
-http://103.180.212.191:3500/live/897.m3u8
-#EXTINF:-1 ,Gemini Music HD
-http://103.180.212.191:3500/live/898.m3u8
-#EXTINF:-1 ,Gemini Mobvies HD
-http://103.180.212.191:3500/live/899.m3u8
-
-
-
-
-
-
-#EXTINF:-1 ,Superfine Films
-http://103.180.212.191:3500/live/3345.m3u8
-#EXTINF:-1 ,Lionsgate Play
-http://103.180.212.191:3500/live/2327.m3u8
-#EXTINF:-1 ,Voice TV Urdu
-http://103.180.212.191:3500/live/3255.m3u8
-#EXTINF:-1 ,Voice TV Urdu
-http://103.180.212.191:3500/live/3255.m3u8
-#EXTINF:-1 ,Shemaroo Umang
-http://103.180.212.191:3500/live/2078.m3u8
-#EXTINF:-1 ,Shemaroo Bollywood
-http://103.180.212.191:3500/live/3075.m3u8
-#EXTINF:-1 ,Shemaroo TV
-http://103.180.212.191:3500/live/1961.m3u8
-
-
