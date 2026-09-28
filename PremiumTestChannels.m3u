@@ -1,9 +1,6 @@
-#EXTINF:-1 tvg-id="" tvg-name="Wow Kids" tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png" group-title="Kids", Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JWc7tpML/ZEE-CINEMA.png" group-title="Indian", ZEE CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png" group-title="Indian",ZEE CINEMA HD
@@ -21,7 +18,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1280px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JR
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/8/89/POGO-logo.png/revision/latest?cb=20230407015035" group-title="Kids",POGO
+
 
 
