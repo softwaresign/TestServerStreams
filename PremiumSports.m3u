@@ -1,9 +1,4 @@
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi HD
-#EXTINF:-1, tvg-logo="https://i.imgur.com/kHerF19.png",Star Sports 2 Hindi (576p)
-#EXTINF:-1, tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg", Willow Cricbuzz
-#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Sky Sports Cricket
+#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Fox 501 Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports
@@ -12,14 +7,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title=" " , Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTINF:-1 tvg-id="1108" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
-#EXTINF:-1 tvg-id="1106" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",Star Sports HD1
-#EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",Star Sports HD2
-#EXTINF:-1 tvg-id="1141" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2
-#EXTINF:-1 tvg-id="1142" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports1
-#EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
-#EXTINF:-1 tvg-id="2852" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
-#EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
-#EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
-#EXTINF:-1 tvg-id="362" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",Star Sports Hindi 1
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Fox 501 Cric1
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Fox 501 Cric2
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
