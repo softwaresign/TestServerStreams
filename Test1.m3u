@@ -1,14 +1,4 @@
 #EXTM3U
-#=================================
-# Developed By: OMNIX EMPIER
-# IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-01-24 01:03 AM (BD Time)
-# TV channel counts :- 27
-# Disclaimer:
-# This tool does NOT host any content.
-# It aggregates publicly available data for informational purposes only.
-# For any issues or concerns, please contact the developer.
-#==================================
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/407/223/png-clipart-quran-mecca-television-channel-television-show-the-holy-quran-miscellaneous-television.png" group-title="Islamic",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&amp;s" group-title="Islamic",Azan TV
